@@ -1,0 +1,157 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 5,
+		"createdAt": "",
+		"description": "<p>A set of 8 crops that can be grown on the farm. (+ bed)</p>\n<p>The model contains not only ready-made plant variants, but also their parts - you can adjust or assemble your own variants.</p>\n<p>Each finished plant (located on the bed) contains about 500 vertexes. (roughly equal to 300 to 600 triangles). All plants are located on the same texture set in 2k. (Color, normal, alpha).</p>\n<p>The bed is 148 vertexes/ 258 triangles. It is located on a separate texture set of 1k (color, normal).</p>\n<p>You can also use it with Farm objects pack <a target=\"_blank\" href=\"https://sketchfab.com/3d-models/stylized-farm-objects-mobile-game-ready-f26aea953c8d4652a6a25f5f3e424adb\" rel=\"noopener noreferrer nofollow\">here</a></p>",
+		"isAiForbidden": false,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "",
+		"listingType": "3d-model",
+		"media": "https://media.fab.com/image_previews/gallery_images/11696680-ee1b-45b5-9291-73083d79f91c/8427f167-fa39-49b8-9bda-d2ddc6cdaa92.jpeg",
+		"publishedAt": "2024-10-23T12:04:30.039170Z",
+		"reviewCount": 2,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/5a183f0b-85d6-4a3d-89b0-1b9403638cb9/120b0eaa-54ee-41ce-94a5-1ac7efb44aa4.jpeg",
+		"title": "Farm plants models (mobile game-ready, lowpoly)",
+		"uid": "cd55e9c9-3d7f-43c9-bef5-a8e78a983dbb",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "",
+			"profileImageUrl": "https://cdn1.epicgames.com/fab/seller/o-bnyqlng8yle4q8ng5hdfemcsh7nuu7/profileImage/blob-500x500-0f449d15f6e839f92993cc70bee695f4.jpg",
+			"sellerName": "LOLIPOP",
+			"uid": "e0aab9c6-77f6-482e-bea2-85b6ff88f9e4"
+		},
+		"tags": [
+			{
+				"name": "Carrot",
+				"slug": "carrot",
+				"uid": "10f026d1-627f-4547-afb1-21f49d780b2a"
+			},
+			{
+				"name": "Garden",
+				"slug": "garden",
+				"uid": "1f405a73-7135-4e7d-a7b2-61e5c33faebf"
+			},
+			{
+				"name": "Plant",
+				"slug": "plant",
+				"uid": "39825278-7eee-4f2e-aa9e-fa21a6f08c4f"
+			},
+			{
+				"name": "Set",
+				"slug": "set",
+				"uid": "439e9e59-95f8-4c59-9e2f-170b5040657c"
+			},
+			{
+				"name": "Lowpoly",
+				"slug": "lowpoly",
+				"uid": "451806dc-649e-43b7-9c2e-a54485de14b6"
+			},
+			{
+				"name": "Mobile",
+				"slug": "mobile",
+				"uid": "6854df7b-c624-4317-b5d4-f765154c7b72"
+			},
+			{
+				"name": "Potato",
+				"slug": "potato",
+				"uid": "6e2077f3-7ca0-4096-916b-832282accd57"
+			},
+			{
+				"name": "Wheat",
+				"slug": "wheat",
+				"uid": "7ae36942-ffc1-4a11-957f-1ff5fbf0ff36"
+			},
+			{
+				"name": "Optimized",
+				"slug": "optimized",
+				"uid": "b80236ef-8966-43ab-b564-cfa99bf22b10"
+			},
+			{
+				"name": "Pack",
+				"slug": "pack",
+				"uid": "b8a16ac4-6252-4eb3-99e8-aa328ec56937"
+			},
+			{
+				"name": "Farm",
+				"slug": "farm",
+				"uid": "d24304ec-e02e-44c8-a23d-126b9cd3c715"
+			},
+			{
+				"name": "Tomato",
+				"slug": "tomato",
+				"uid": "e20e08dd-9aa7-4cda-b1f9-673e711e9dec"
+			},
+			{
+				"name": "Onion",
+				"slug": "onion",
+				"uid": "e577414b-08f7-4959-bbed-04b8a914c8ac"
+			},
+			{
+				"name": "Pumpkin",
+				"slug": "pumpkin",
+				"uid": "e6191840-a0cd-43e4-908d-0a053be5d751"
+			},
+			{
+				"name": "Corn",
+				"slug": "corn",
+				"uid": "e9feef33-ed3f-4853-8225-e127883ef128"
+			}
+		],
+		"category":
+		{
+			"name": "Naturaleza y plantas",
+			"path": "nature-plants",
+			"slug": "nature-plants",
+			"uid": "57243087-7d23-45a2-b08d-cf12cc77efed"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "FBX",
+					"groupName": "Formatos de intercambio 3D",
+					"code": "fbx",
+					"icon": "cube",
+					"extensions": [
+						"fbx"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Archivos convertidos",
+					"groupName": "",
+					"code": "converted-files",
+					"icon": "cube",
+					"extensions": [
+						"gltf",
+						"glb",
+						"usdz"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "",
+	"quality": "",
+	"format": "fbx",
+	"fileId": "44fc7bf2-0b94-4d42-b6c7-01e9dfc43e19",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "",
+	"invertedNormal": false,
+	"isConverted": false,
+	"isQuixel": false
+}
